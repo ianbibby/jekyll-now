@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: #FOTT
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+Blogging can be the worst.  I'm giving it yet another try, but only because a wise guy once created http://finishonethingtoday.com/ and inspired me.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+I spent most of today playing around with [Polymer](https://www.polymer-project.org) and I'm in love!  I'll see about putting together some posts on that.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+\#1 finished!
