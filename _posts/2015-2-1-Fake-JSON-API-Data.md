@@ -20,4 +20,4 @@ http://filltext.com/?rows=20&fname={firstName}&lname={lastName}
 [{"fname":"Ghaffar","lname":"Poole"},{"fname":"Craig","lname":"Wiedenmann"},{"fname":"Segun","lname":"Harmati"},{"fname":"Clyde","lname":"Birnstill"},{"fname":"Omar","lname":"Reyes"}]
 ```
 
-Use this if you want a stupid easy data and don't forget the delay=n parameter!
+Use this if you want plain structured data and don't forget the delay=n parameter!
