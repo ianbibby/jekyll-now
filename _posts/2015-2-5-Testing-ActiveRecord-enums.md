@@ -34,7 +34,7 @@ class Conversation < ActiveRecord::Base
 end
 ```
 
-The numbers here are ok - but if you were dealing with legacy stuff where the numbering isn't sequential it'd be easy to do something like *{ active: STATUS_ACTIVE, ... }*.
+The numbers here are ok - but if you were dealing with legacy stuff where the numbering isn't sequential it'd be easy to do something like `{ active: STATUS_ACTIVE, ... }`.
 
 Back to the point of this post though, how do you go about creating these enums from a TDD approach?  I've been using minitest a lot lately, not the spec-style minitest but plain ole ActiveSupport::TestCase minitest and it's **awesome**!
 
