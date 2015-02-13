@@ -7,7 +7,7 @@ Mucho Polymer love tonight! \<3 \<3
 
 I've been experimenting with Polymer for a couple of weeks now and the development flow is just incredible.  It felt wrong to just keep all of this cool knowledge on my local machine or hidden in private repos, so without ado here is my very first Polymer custom element:
 
-https://github.com/ianbibby/imgur-upload
+[https://github.com/ianbibby/imgur-upload]
 
 Although not production ready, this only took a couple of hours and I can already imagine plugging this into a project that needs a quick image upload feature.
 
