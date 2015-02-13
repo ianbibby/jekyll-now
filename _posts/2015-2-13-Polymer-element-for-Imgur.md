@@ -13,6 +13,6 @@ Although not production ready, this only took a couple of hours and I can alread
 
 The Polymer team have done an amazing job with documenting the steps required for creating custom elements, so unless I find myself with some free time (lol) I'm going to just leave some link love here.
 
-# [generator-polymer](https://github.com/yeoman/generator-polymer)
-## `yo polymer:seed` 
-# [Guide for reusable elements](http://www.polymer-project.org/docs/start/reusableelements.html)
+* [generator-polymer](https://github.com/yeoman/generator-polymer)
+  * `yo polymer:seed` 
+* [Guide for reusable elements](http://www.polymer-project.org/docs/start/reusableelements.html)
